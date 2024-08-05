@@ -10,3 +10,4 @@ prom/prometheus:v2.25.0
 grafana/grafana:7.3.7
 apache/apisix:3.9.0-debian
 apache/apisix-dashboard:latest
+apache/apisix:3.4.1-debian
